@@ -1,6 +1,3 @@
-# -Food-Recipe-RN-App-Yt
-
-# React-Native-Expo-Travel-Yt
 
 ## Get Started
 
